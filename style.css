@@ -1,0 +1,60 @@
+body{
+font-family: Arial;
+margin:0;
+background:#f2f2f2;
+text-align:center;
+}
+
+.header{
+  background:red;
+  color:white;
+  display:flex;
+  align-items:center;
+  padding:10px;
+}
+
+.logo{
+  width:40px;
+  height:40px;
+  margin-right:5px;
+}
+
+.header h2{
+  margin:0;
+  font-size:22px;
+}
+
+.container{
+padding:20px;
+}
+
+.app-logo{
+width:150px;
+border-radius:20px;
+margin:20px 0;
+}
+
+.download-btn{
+background:#8b0000;
+color:white;
+padding:15px 40px;
+border-radius:30px;
+text-decoration:none;
+font-size:18px;
+display:inline-block;
+}
+
+.download-btn:hover{
+background:red;
+}
+
+table{
+width:80%;
+margin:auto;
+border-collapse:collapse;
+background:white;
+}
+
+th{
+background:#e0e0e0;
+}
